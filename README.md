@@ -1,14 +1,14 @@
 # Bluesky Auto-Poster
 - (Plugin URL coming soon...)
 
-# Tested on...
+## Tested on...
 - Rocky Linux 9.6
 - Nginx 1.29.3
 - MariaDB 10.6.23
 - PHP 8.3.27
 - WordPress 6.8.3
 
-# PHP extensions must needed are...
+## PHP extensions must needed are...
 - dom
 - json
 - intl
@@ -16,12 +16,18 @@
 > Most servers that have installed PHP 8.x will probably already have these extensions, especially Wordpress servers.
 > You don't need to install it again.
 > If you're unsure, please get in touch with the Admin of your hosting service.
-> If you are the Admin of server, check below guide(Language: Korean, use translators).
+> If you are the server Administrator, please check the guide below(this is in Korean, so you can use use a translators).
 
-# How to Install PHP and required extensions...
+### How to Install PHP and required extensions
 - (coming soon)
 
-#Features
+## Features
 - Write a new post or modify existing post in Wordpress, plugin throw same one into Bluesky Social.
 
-https://frosteye.net
+# Donation
+- https://frosteye.net/donation/
+- BTC : 
+- ETH : 
+- Doge : 
+
+https://frosteye.net/
